@@ -1,0 +1,76 @@
+{"events":[
+    {   "date":"2013-09-27",
+        "resTypes":{
+            "slides":{
+                "active":true,
+                "items":[
+                    {   "title":"Agenda and Links - GTUG Brussels - 6 Feb",
+                        "url":"https://docs.google.com/open?id=1HRuBXuSy9v8Qhj7-qBamMwaDAP076SOUx-XFcYkiZzA"},
+                    {   "title":"Contextual Action Bar - GTUG Brussels - 6 Feb",
+                        "url":"https://docs.google.com/open?id=1o6nD3Az1fPfhz9q62ZN6WtD3qGP7RgUo4bB8P6qI_AY"},
+                    {   "title":"Google I/O series - Project Glass",
+                        "url":"https://docs.google.com/open?id=1XC3znWKglW4cnjqY-Qi9JD9p32K7ABZ1pecQwlJ1WFySROT4qOOI2RdFlP-sD2-N7qHYeT18lsHRbrmh"},
+                    {   "title":"Rogerthat_customer_presentation_v4.pdf",
+                        "url":"https://docs.google.com/open?id=0B4xtTn_4fPduWTZmX2c2ak5GS28"},
+                    {   "title":"RT_GAE.pdf",
+                        "url":"https://docs.google.com/open?id=0B4xtTn_4fPduVnFmZFFjRXVWWTQ"}
+                ]
+            }
+        }
+    },
+    {   "date":"2013-03-13",
+        "resTypes":{
+            "slides":{
+                "active":false,
+                "items":[
+                    {   "title":"Android Loaders : Reloaded",
+                        "url":"https://docs.google.com/open?id=1HaxUvdzks7qqCfrfe28aKGpzxCY5RgFiC_BaHOWf5JQ"},
+                    {   "title":"BruGTUG 2013-03-13 agenda",
+                        "url":"https://docs.google.com/open?id=1sb8jA_uefCQuNzUL8oxw7GvXhB5GOJPgHDmbNA8JH-k"},
+                    {   "title":"Google I/O series - Android Key Lime Pie",
+                        "url":"https://docs.google.com/open?id=1o9WiUGR8N6MUWXeNi4Wqq-KN2yEUFLDmxWCHmhOjlMY"},
+                    {   "title":"Go paperless in 2013","url":"2013-03-13/Go paperless in 2013"}
+                ]
+            }
+    }
+    },
+    {   "date":"2013-04-17",
+        "resTypes":{
+            "slides":{
+                "active":false,
+                "items":[
+                    {   "title":"2013-04-17 Agenda",
+                        "url":"https://docs.google.com/open?id=1nPdhZEdE_NyjquF-WHYZ8uFhKTg2gxP4cdEn4ACNkJA"},
+                    {   "title":"Droidcon Berlin 2013 - Highlights",
+                        "url":"https://docs.google.com/open?id=1WhofwnsweNM78njqdDg0ekvs8zSGSzcC6CmULZSvNQk"},
+                    {   "title":"Google I/O 2013 series - Cloud",
+                        "url":"https://docs.google.com/open?id=1iWNFFOr5tpvNu0nSxkGkFfW75KZ_AAqLjK8PxI7-W-0"},
+                    {   "title":"How to make your Android apps suck",
+                        "url":"https://docs.google.com/open?id=1tB-twyjWbHWdr53czXMUWUIfFUGfEHmIDpP92_B25u8"}
+                ]
+            }
+        }
+    },
+    {   "date":"2013-06-10",
+        "resTypes":{
+            "slides":{
+                "active":false,
+                "items":[
+                    {   "title":"Google Plus Integration in Android Apps",
+                        "url":"https://docs.google.com/open?id=14J0KYiKM7mEd6h4HquadXdgr44Y_Iy_h6moYJm_Xx5U"}
+                ]
+            }
+        }
+    },
+    {   "date":"2013-07-29",
+        "resTypes":{
+            "slides":{
+                "active":false,
+                "items":[
+                    {   "title":"Ingress",
+                        "url":"https://docs.google.com/open?id=1F1F59slI4vpx6NL1AQpOiXo8CgTfkunuOSeCDbgzUUE"}
+                ]
+            }
+        }
+    }
+]}
